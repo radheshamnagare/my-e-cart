@@ -20,11 +20,13 @@ E-Cart is a robust and user-friendly e-commerce shopping cart system designed to
 
 
 ## Screen Shot
-![Screenshot from 2024-01-06 12-12-24](https://github.com/radheshamnagare/my-e-cart/assets/60652468/f6936c07-a6e8-405d-a015-cc31a68e8cd9)
+![Screenshot from 2024-01-06 12-12-24](https://github.com/radheshamnagare/my-e-cart/assets/60652468/449fe8fd-19d3-44e7-b541-03d1c4eb92df)
 
-![Screenshot from 2024-01-06 12-12-43](https://github.com/radheshamnagare/my-e-cart/assets/60652468/47df4af7-9716-4f32-a786-186542241fad)
+![Screenshot from 2024-01-06 12-14-29](https://github.com/radheshamnagare/my-e-cart/assets/60652468/3e9ecac6-308e-451a-b971-502cf56350d8)
 
-![Screenshot from 2024-01-06 12-14-38](https://github.com/radheshamnagare/my-e-cart/assets/60652468/b239ae43-d595-4c94-8beb-c25e7e64f435)
+![Screenshot from 2024-01-06 12-14-38](https://github.com/radheshamnagare/my-e-cart/assets/60652468/38062353-7472-46dc-9589-79c6024962c8)
+
+
 
 
 
