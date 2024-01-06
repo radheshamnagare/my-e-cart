@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="col-12">
+        <div class="row mt-3">
+            <div class="col-lg-3 " *ngFor="let product of listOfProducts">
+
+                <div class="card" style="height: 450px;">
+                    <img class="img-fluid" style="height: 200px;" [src]="product.image" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <small class="card-title">{{product.title}}</small>
+                        <p class="card-text"><span
+                                class="text-danger fw-semibold me-2">${{product.price |
+                                number:'1.0'}}</span>
+                            <span class="text-success ms-2">35% Off</span>
+                        </p>
+                        <div class="row">
+                            <div class="col-6">
+                                <i class="fa fa-solid fa-star-half" style="color: #eff308;"></i>
+                                <span class="text-muted">{{product.rating.rate}}</span>
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-sm btn-success" (click)="addItemToCart(product.id)"> Add
+                            To Cart</button>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
